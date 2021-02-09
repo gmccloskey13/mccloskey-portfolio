@@ -8,4 +8,4 @@ Hello and welcome to my portfolio! My name is Garrett McCloskey and I am current
 I hope to learn how to better utilize some of the powerful and easily accessible data viz tools out there. Also, I hope to learn a lot from my wonderful colleagues at CMU. I love to learn from others and this class offers a wonderful opportunity to do so.
 
 # /PORTFOLIO
-This section of the website will house all of my data visualization for the class and beyond.
+This section of the website will house all of my data visualization for the class and beyond. 
