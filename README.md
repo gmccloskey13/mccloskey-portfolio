@@ -7,5 +7,5 @@ Hello and welcome to my portfolio! My name is Garrett McCloskey and I am current
 # /WHAT I HOPE TO LEARN
 I hope to learn......
 
-# /PORTFOLIO
+# /PORTFOLIO 📊
 This section of the website will house all of my data visualizations for the class and beyond. 
