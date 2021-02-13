@@ -8,10 +8,5 @@ Hello and welcome to my portfolio! My name is Garrett McCloskey (he/him) and ove
 I hope to learn the basic data visualization principles and best practices so that I can feel comfortable creating vizzes in future positions regardless of the discipline. I hope to learn my personal preferences when it comes to free visualization tools since there are so many out there! I also hope that I learn the most efficient way to find relevant data sets.
 
 # /PORTFOLIO 📊
-This section of the website will house all of my data visualizations for the class and beyond. 
 
-## KING COUNTY COVID-19
-[Click here](/kingcountycovid.md)
-
-## VISUALIZING GOVERNMENT DEBT
-[Click here](/dataviz_gvmtdebt.md)
+Click [here](/portfoliopage_main.md) to go to check out my visualizations!
