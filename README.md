@@ -9,4 +9,4 @@ I hope to learn the basic data visualization principles and best practices so th
 
 # /PORTFOLIO 📊
 
-Click [here](/portfoliopage_main.md) to go to check out my visualizations!
+Click [here](/portfoliopage_main.md) to check out my visualizations!
