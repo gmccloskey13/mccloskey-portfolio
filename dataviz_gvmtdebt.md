@@ -10,6 +10,6 @@
 
 ## VIZ 2
 
-This visualization depictsgovernment debt by country from 1995 to 2018. 
+This visualization depicts government debt by country from 1995 to 2018. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5290262"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
