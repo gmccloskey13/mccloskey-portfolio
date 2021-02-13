@@ -1,4 +1,4 @@
-# This is a data viz created from Kind County covid data.
+# COVID-19 - King County 
 
 _This viz was created using Flourish._
 
