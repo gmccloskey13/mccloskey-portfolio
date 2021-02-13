@@ -10,5 +10,8 @@ I hope to learn the basic data visualization principles and best practices so th
 # /PORTFOLIO 📊
 This section of the website will house all of my data visualizations for the class and beyond. 
 
+## KING COUNTY COVID-19
+[Click here](/kingcountycovid.md)
+
 ## VISUALIZING GOVERNMENT DEBT
 [Click here](/dataviz_gvmtdebt.md)
