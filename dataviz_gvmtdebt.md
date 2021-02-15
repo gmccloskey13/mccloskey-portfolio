@@ -17,7 +17,7 @@ This visualization depicts government debt by country from 1995 to 2018.
 
 ## Viz 3
 
-Here is a visualization showing general government Debt-to-GDP ratios for 2019, as seen compared against past ratios.
+Here is a visualization showing general government debt-to-GDP ratios in 2019.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5298084"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
