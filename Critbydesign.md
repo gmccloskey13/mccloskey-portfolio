@@ -15,15 +15,16 @@ I started this journey by using Stephen Few's Data Visualization Effectiveness P
 
 As I moved to wireframe this new graph, I started with the original design and reworked it. I got rid of all of the labels and also created two axes in order to start to picture how a viewer might best digest the information. This was the first graph.
 
-![Graph 1](/images/IMG_5221.jpg) 
+![IMG_5221](https://user-images.githubusercontent.com/78331869/108664898-c21a6b00-74a1-11eb-8b38-f2e6bc35443b.jpg)
 
 I then began to play with colors, trying to understand what will best show the rising trend in streaming revenues. I included some colored bars, as you can see below, but in my user feedback, the viewers were confused about the difference between the grey and the green and also were still confused about the orange line (which represents the percentage of all recording revenues attributed to streaming). Initially, I was attempting to show the years (2017-2019) that had already passed, but I decided that was not necessary and very intuitive. Moving forward, I understood that the bars staying one color would be best and also that I should use some colored text in order to evoke meaning rather than include a key that might be redundant to the viewer and distract them from the concept.
 
-I next went to try a couple more designs and even considered separating the two styles of charts. (PICTURE and PICTURE) 
+I next went to try a couple more designs and even considered separating the two styles of charts.
+![IMG_5225](https://user-images.githubusercontent.com/78331869/108665070-0c035100-74a2-11eb-8f26-06b469f9aab3.jpg)
 
-![Graph 2](/images/IMG_5222.jpg) 
+![IMG_5221](https://user-images.githubusercontent.com/78331869/108664965-deb6a300-74a1-11eb-9c50-86120b94ef5a.jpg)
 
-![Graph 3](/images/IMG_5223.jpg)
+![IMG_5223](https://user-images.githubusercontent.com/78331869/108665013-efffaf80-74a1-11eb-84b4-3d5cf45d3e84.jpg)
 
 The user feedback was favorable toward the dual bar graph, but the users were still somewhat confused by the two colors and how they related. So, I decided to stick with one color for the bar graph and incorporate the line graph in order to show that it was related, but was not necessarily being compared to the other - the two data sets complement each other. I also asked the users about an alternative title, and it got a favorable response. I have incorporated an updated title and subtitle in the final visualization below.
 
