@@ -10,4 +10,4 @@ Welcome to my portfolio page! This page will house all of my data visualizations
 [Click here](/dataviz_gvmtdebt.md)
 
 ## CRITIQUE BY DESIGN
-[Click here](/dataviz_gvmtdebt.md)
+[Click here](/Critbydesign.md)
