@@ -27,11 +27,9 @@ I next went to try a couple more designs and even considered separating the two 
 
 The user feedback was favorable toward the dual bar graph, but the users were still somewhat confused by the two colors and how they related. So, I decided to stick with one color for the bar graph and incorporate the line graph in order to show that it was related, but was not necessarily being compared to the other - the two data sets complement each other. I also asked the users about an alternative title, and it got a favorable response. I have incorporated an updated title and subtitle in the final visualization below.
 
-
-
-
-
-
-
 ## Final Visualization
 <div class="flourish-embed" data-src="story/773147"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The redesigned visualization, made with Flourish, shows the past and future rise in revenue attributed to music streaming and the percentage of all recorded revenues that are and are projected to be attributable to streaming year-over-year from 2017 to 2026. I wanted to really clean up the initial graph. I kept a similar structure due to input from the user research, which I think effectively highlights the projected revenue through 2026. This information is complemented with the now-muted trend line showing what percentage of all recorded music revenues are expected to be attributed to streaming through 2026. Overall, given just the graph, a viewer can clearly see the future trends and how streaming will dominate the music industry in the years to come. 
+
+Stylistically, I wanted to make sure that a viewer would look at the correct axis when analyzing the green bars, so I made it really clear that it is the streaming revenue. The bars are a solid green and easily defined, unlike the original design which was maybe stylistically appealing to some, but difficult to see where the bar ended. Further, I simplified the y-axis on the right so that it is not distracting yet presents all of the information. I also chose to add an annotation to the graph, in the same color as the percentage line, to give some context and call out a statistic that was pointed out in the original report but only in the text below the graph. Along with those changes, I corrected the initial x-axis that double-counted the year 2021 and omitted the year 2023. This was a simple fix,  but this flaw immediately challenged the validity of this data to me when I read the report. In all, I hope that my redesign has cleared up and drawn attention to the fact that streaming is here to stay and is effectively taking over the music industry as we know it today. 
