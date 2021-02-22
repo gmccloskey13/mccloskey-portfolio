@@ -1,4 +1,4 @@
-##### [**BACK TO MAIN**](https://gmccloskey13.github.io/mccloskey-portfolio/)
+##### [**BACK TO PORTFOLIO**](/portfoliopage_main.md)
 
 # COVID-19 - King County 
 
