@@ -22,7 +22,7 @@ I then began to play with colors, trying to understand what will best show the r
 I next went to try a couple more designs and even considered separating the two styles of charts.
 ![IMG_5225](https://user-images.githubusercontent.com/78331869/108665070-0c035100-74a2-11eb-8f26-06b469f9aab3.jpg)
 
-![IMG_5221](https://user-images.githubusercontent.com/78331869/108664965-deb6a300-74a1-11eb-9c50-86120b94ef5a.jpg)
+![IMG_5222](https://user-images.githubusercontent.com/78331869/108665140-36550e80-74a2-11eb-9950-9ce6ea1df5ce.jpg)
 
 ![IMG_5223](https://user-images.githubusercontent.com/78331869/108665013-efffaf80-74a1-11eb-84b4-3d5cf45d3e84.jpg)
 
