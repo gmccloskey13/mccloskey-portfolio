@@ -8,7 +8,7 @@ The original visualization I chose to critique comes from page 40 of the Digital
 
 ![](/images/Screen Shot 2021-02-20 at 2.46.30 PM.png)
 
-######      DiMA, _Figure 10_, Deccember 2020 (_Streaming Forward 2020_), February 19, 2021 and https://15z58v1dk1tg360t7w3les8e-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/DiMA_2020_Streaming_Forward_Report.pdf
+#### DiMA, _Figure 10_, Deccember 2020 (_Streaming Forward 2020_), February 19, 2021 and https://15z58v1dk1tg360t7w3les8e-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/DiMA_2020_Streaming_Forward_Report.pdf
 
 
 
