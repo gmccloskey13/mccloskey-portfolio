@@ -11,3 +11,7 @@ Welcome to my portfolio page! This page will house all of my data visualizations
 
 ## CRITIQUE BY DESIGN
 [Click here](/Critbydesign.md)
+
+## FINAL PROJECT
+### PART I
+[Click here](/final_project_GarrettM.md)
