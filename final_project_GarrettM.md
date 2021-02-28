@@ -30,12 +30,12 @@ I utilized the structure from Good charts ch. 8, pg. 202 and the Good Charts Wor
 
 ## Initial Sketches
 
-This sketch shows that over 40 years, only 23 orchestras have hosted fellowships to increase diversity and train individuals in the field.
+This unit chart sketch shows that over 40 years, only 23 orchestras have hosted fellowships to increase diversity and train individuals in the field.
 
 
 ![IMG_5261](https://user-images.githubusercontent.com/78331869/109432689-689ec880-79da-11eb-840a-443ed8a4b935.jpg)
 
-In these sketches I intend to show the demographic and gender breakdown among orchestra musicians, showing exactly who is on the stage performing these works. 
+In these sketches I intend to show the demographic and gender breakdown among orchestra musicians, showing exactly who is on the stage performing these works. I believe that a tree map will be the best representation of this data, but I drew an additional pie chart to see how it looked and also tested some labels. 
 
 ![IMG_5263](https://user-images.githubusercontent.com/78331869/109432694-73595d80-79da-11eb-9a90-b2cb3345f683.jpg)
 ![IMG_5264](https://user-images.githubusercontent.com/78331869/109432699-7a806b80-79da-11eb-8f7b-955e63b19922.jpg)
@@ -75,4 +75,5 @@ I anticipate that as I move through creating this project that I may have to sea
 
 ##### References
 <sup>1</sup>  “OSR: Orchestra Statistical Report,” American-Orchestras (blog), accessed February 28, 2021, https://americanorchestras.org/learn/resources-data-and-research/osr-orchestra-statistical-report/.
+
 <sup>2</sup> League of American Orchestras and Dr. James Doeser, “Racial/Ethnic and Gender Diversity in the Orchestra Field,” September 2016, https://americanorchestras.org/racial-ethnic-and-gender-diversity-in-the-orchestra-field/.
