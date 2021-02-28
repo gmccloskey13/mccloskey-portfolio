@@ -70,7 +70,7 @@ I am going to work primarily in Shorthand to complete this project. I really enj
 
 Given that I have identified relatively simple data points, some of which will just be pulled directly from the first two reports I identified, I am going to attempt to use Flourish. I used Flourish for Assignment 3/4 and enjoyed how user-friendly it is. If I intend to do some sort of map of the U.S. showing where orchestras are located, which I could see happening, I will probably use Tableau since we have already gone through one demonstration in class. If I discover that the data sets I pull from  The Data Analysis of Orchestral Seasons 2019-2020 database or the Baltimore Symphony Orchestra’s The Orchestra Season by the Numbers: Database are too unwieldy to use in Flourish, I will use Tableau. 
 
-I anticipate that as I move through creating this project that I may have to search for new data that help illuminate my ideas about where orchestras are heading in the future. I believe that looking at recent articles detailing work American arts organizations have been doing since the pandemic has started will help me craft the last part of my story arc and solidify my call to action and even my audience. 
+I anticipate that as I move through creating this project that I may have to search for new data that help illuminate my ideas about where orchestras are heading in the future. I believe that looking at recent articles detailing work American arts organizations have been doing since the pandemic has started, especially over from over the summer, will help me craft the last part of my story arc and solidify my call to action and even my audience. 
 
 
 ##### References
