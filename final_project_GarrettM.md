@@ -46,4 +46,16 @@ Using two of the data sources I will discuss below, I want to show the increase 
 
 ## Data
 
+I have located a number of sources that will help me tell this story. The first two sources come from the League of American Orchestras. This is a North American service organization with 700+ member orchestras. 
+
+_Racial/Ethnic and Gender Diversity in the Orchestra Field_ (LINK)[^1]
+This data source includes statistics that I can easily recreate for my own purposes in my final project. I am going to use, primarily, the data about musician demographics and genders in order to compare them to the works orchestras perform and U.S. Census data.
+The original data comes from the League’s Orchestra Statistical Report, which is “the largest and most comprehensive orchestra data set in the United States.” The report analyzes Musicians: Race and Ethnicity (1980-2014), Gender (1978-2014); Conductors: Race and Ethnicity (2006-2016), Gender (2006-2016); Staff: Race and Ethnicity (2010-2014), Gender (2010-2014); Board Members: Race and Ethnicity (2010-2014), Gender (2010-2014).
+
+
+Forty Years of Fellowships: A Study of Orchestras’ Efforts to Include African American and Latino Musicians (LINK)
+This source includes a lot of useful information about orchestral fellowship programs from the past 40 years. I will use this data to help tell the story from the implementation of the first fellowship in 1973, as I laid out in my story arc. There is useful information about the number of fellowships (as seen in my first sketch), as well as qualitative and quantitative outcomes from these fellowships that might be useful in understanding the scenario concerning a lack of diversity in orchestras today. 
+
+The next source comes from the Institute for Composer Diversity. The Data Analysis of Orchestral Seasons 2019-2020 database will help me understand the most current landscape of orchestral programming and provide me with quantitative data on performances featuring women, underrepresented, and alive composers. Similarly, the Baltimore Symphony Orchestra’s The Orchestra Season by the Numbers: Database will help me complete an analysis of Group 1 orchestral repertoire from the 2014 - 2015 season in order to compare it to the 2019 - 2020 season. This information will be used in a visualization similar to the final sketch pictured above. 
+
 ## Method and Medium
