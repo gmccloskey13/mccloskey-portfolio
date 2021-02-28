@@ -19,14 +19,17 @@ Potential audience for this will be orchestra professionals or arts administrato
 **Touchpoints**:
 Starting in 1973 with orchestral fellowships designed to increase diversity in the field and the League of American Orchestras’ (the League) report title Americanizing the American Orchestra, published in 1993. I will then include information from two diversity studies completed by the League that collected data from its members up through 2014. I also intend to look at the diversity in the repertoire of American orchestras from 2014 - 2020 through various data sources. 
 
+#### Structure 
+I utilized the structure from Good charts ch. 8, pg. 202 and the Good Charts Workbook pg. 132.
 
+**Setup**: The American orchestra system, bred from European ideals, is inherently white and male-dominated. These themes reverberate through orchestral musicians, staff, and performance seasons.
 
+**Conflict**: The American orchestra does not reflect the increasing diversity in America. This lack has been illuminated by the rise of the social justice movement in the summer of 2020. Changes to certain areas have been slowly starting, but more needs to be done.
 
-
-
-
+**Resolution** (call-to-action): Arts administrators and orchestra professionals need to incorporate more diverse works each season and understand how organizational operations, practices, and processes perpetuate the systemic issues present in American orchestras and other American arts organizations.
 
 ## Initial Sketches
+
 
 ## Data
 
