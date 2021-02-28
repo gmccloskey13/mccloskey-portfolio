@@ -73,7 +73,7 @@ Given that I have identified relatively simple data points, some of which will j
 I anticipate that as I move through creating this project that I may have to search for new data that help illuminate my ideas about where orchestras are heading in the future. I believe that looking at recent articles detailing work American arts organizations have been doing since the pandemic has started, especially over from over the summer, will help me craft the last part of my story arc and solidify my call to action and even my audience. 
 
 
-##### References
+#### References
 <sup>1</sup>  “OSR: Orchestra Statistical Report,” American-Orchestras (blog), accessed February 28, 2021, https://americanorchestras.org/learn/resources-data-and-research/osr-orchestra-statistical-report/.
 
 <sup>2</sup> League of American Orchestras and Dr. James Doeser, “Racial/Ethnic and Gender Diversity in the Orchestra Field,” September 2016, https://americanorchestras.org/racial-ethnic-and-gender-diversity-in-the-orchestra-field/.
