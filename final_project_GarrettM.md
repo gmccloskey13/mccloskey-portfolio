@@ -52,7 +52,7 @@ I have located a number of sources that will help me tell this story. The first 
 
 This data source includes statistics that I can easily recreate for my own purposes in my final project. I am going to use, primarily, the data about musician demographics and genders in order to compare them to the works orchestras perform and U.S. Census data.
 
-The original data comes from the League’s Orchestra Statistical Report, which is “the largest and most comprehensive orchestra data set in the United States.”[^1] The report analyzes Musicians: Race and Ethnicity (1980-2014), Gender (1978-2014); Conductors: Race and Ethnicity (2006-2016), Gender (2006-2016); Staff: Race and Ethnicity (2010-2014), Gender (2010-2014); Board Members: Race and Ethnicity (2010-2014), Gender (2010-2014).
+The original data comes from the League’s Orchestra Statistical Report, which is “the largest and most comprehensive orchestra data set in the United States." <sup>1</sup> The report analyzes Musicians: Race and Ethnicity (1980-2014), Gender (1978-2014); Conductors: Race and Ethnicity (2006-2016), Gender (2006-2016); Staff: Race and Ethnicity (2010-2014), Gender (2010-2014); Board Members: Race and Ethnicity (2010-2014), Gender (2010-2014).<sup>2</sup>
 
 
 [**_Forty Years of Fellowships: A Study of Orchestras’ Efforts to Include African American and Latino Musicians_**](https://americanorchestras.org/forty-years-of-fellowships-a-study-of-orchestras-efforts-to-include-african-american-and-latino-musicians/)
@@ -74,4 +74,5 @@ I anticipate that as I move through creating this project that I may have to sea
 
 
 ##### References
-[^1]  “OSR: Orchestra Statistical Report,” American-Orchestras (blog), accessed February 28, 2021, https://americanorchestras.org/learn/resources-data-and-research/osr-orchestra-statistical-report/.
+<sup>1</sup>  “OSR: Orchestra Statistical Report,” American-Orchestras (blog), accessed February 28, 2021, https://americanorchestras.org/learn/resources-data-and-research/osr-orchestra-statistical-report/.
+<sup>2</sup> League of American Orchestras and Dr. James Doeser, “Racial/Ethnic and Gender Diversity in the Orchestra Field,” September 2016, https://americanorchestras.org/racial-ethnic-and-gender-diversity-in-the-orchestra-field/.
