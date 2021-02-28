@@ -17,7 +17,7 @@ Potential audience for this will be orchestra professionals or arts administrato
 ![IMG_5260](https://user-images.githubusercontent.com/78331869/109432594-e57d7280-79d9-11eb-9880-54f2f0eef74c.jpg)
 
 **Touchpoints**:
-Starting in 1973 with orchestral fellowships designed to increase diversity in the field and the League of American Orchestras’ (the League) report title Americanizing the American Orchestra, published in 1993. I will then include information from two diversity studies completed by the League that collected data from its members up through 2014. I also intend to look at the diversity in the repertoire of American orchestras from 2014 - 2020 through various data sources. 
+Starting the story in 1973 with orchestral fellowships designed to increase diversity in the field and the League of American Orchestras’report titled _Americanizing the American Orchestra_, published in 1993. I will then include information from two diversity studies completed by the League that collected data from its members up through 2014. I also intend to look at the diversity in the repertoire of American orchestras from 2014 - 2020 through various data sources. 
 
 #### Structure 
 I utilized the structure from Good charts ch. 8, pg. 202 and the Good Charts Workbook pg. 132.
@@ -52,7 +52,7 @@ I have located a number of sources that will help me tell this story. The first 
 
 This data source includes statistics that I can easily recreate for my own purposes in my final project. I am going to use, primarily, the data about musician demographics and genders in order to compare them to the works orchestras perform and U.S. Census data.
 
-The original data comes from the League’s Orchestra Statistical Report, which is “the largest and most comprehensive orchestra data set in the United States.” The report analyzes Musicians: Race and Ethnicity (1980-2014), Gender (1978-2014); Conductors: Race and Ethnicity (2006-2016), Gender (2006-2016); Staff: Race and Ethnicity (2010-2014), Gender (2010-2014); Board Members: Race and Ethnicity (2010-2014), Gender (2010-2014).
+The original data comes from the League’s Orchestra Statistical Report, which is “the largest and most comprehensive orchestra data set in the United States.”[^1] The report analyzes Musicians: Race and Ethnicity (1980-2014), Gender (1978-2014); Conductors: Race and Ethnicity (2006-2016), Gender (2006-2016); Staff: Race and Ethnicity (2010-2014), Gender (2010-2014); Board Members: Race and Ethnicity (2010-2014), Gender (2010-2014).
 
 
 [**_Forty Years of Fellowships: A Study of Orchestras’ Efforts to Include African American and Latino Musicians_**](https://americanorchestras.org/forty-years-of-fellowships-a-study-of-orchestras-efforts-to-include-african-american-and-latino-musicians/)
@@ -71,3 +71,7 @@ I am going to work primarily in Shorthand to complete this project. I really enj
 Given that I have identified relatively simple data points, some of which will just be pulled directly from the first two reports I identified, I am going to attempt to use Flourish. I used Flourish for Assignment 3/4 and enjoyed how user-friendly it is. If I intend to do some sort of map of the U.S. showing where orchestras are located, which I could see happening, I will probably use Tableau since we have already gone through one demonstration in class. If I discover that the data sets I pull from  The Data Analysis of Orchestral Seasons 2019-2020 database or the Baltimore Symphony Orchestra’s The Orchestra Season by the Numbers: Database are too unwieldy to use in Flourish, I will use Tableau. 
 
 I anticipate that as I move through creating this project that I may have to search for new data that help illuminate my ideas about where orchestras are heading in the future. I believe that looking at recent articles detailing work American arts organizations have been doing since the pandemic has started will help me craft the last part of my story arc and solidify my call to action and even my audience. 
+
+
+##### References
+[^1]  “OSR: Orchestra Statistical Report,” American-Orchestras (blog), accessed February 28, 2021, https://americanorchestras.org/learn/resources-data-and-research/osr-orchestra-statistical-report/.
