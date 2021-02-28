@@ -14,6 +14,8 @@ I am interested in telling the story of diversity in American orchestras from 19
 Potential audience for this will be orchestra professionals or arts administrators more broadly. 
 
 #### Story arc
+![IMG_5260](https://user-images.githubusercontent.com/78331869/109432594-e57d7280-79d9-11eb-9880-54f2f0eef74c.jpg)
+
 **Touchpoints**:
 Starting in 1973 with orchestral fellowships designed to increase diversity in the field and the League of American Orchestras’ (the League) report title Americanizing the American Orchestra, published in 1993. I will then include information from two diversity studies completed by the League that collected data from its members up through 2014. I also intend to look at the diversity in the repertoire of American orchestras from 2014 - 2020 through various data sources. 
 
