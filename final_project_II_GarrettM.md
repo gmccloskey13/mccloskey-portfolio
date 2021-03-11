@@ -25,7 +25,12 @@ I have drafted my story in Shorthand. This has helped me get experience using Sh
 
 ## User Research and Interviews
 ### User Research Protocol
-
+|                                                               Goals                                                              |                                                                                               Questions                                                                                              |
+|:--------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Analyze draft wireframes and storyboard**  Do people slightly or completely unfamiliar  with the topic fully understand the story? | What is your first reaction to this?   What is going through your mind  as you look at this? Jot down two or three of the  first words that come to your mind.   What issue is being discussed here? |
+|                                                      **Audience Identification**                                                     | Who do you think this page is intended for?                                                                                                                                                          |
+| **Clear up confusion about the topic**                                                                                               | What do you find confusing?   What would you like to learn more about?                                                                                                                               |
+| **Prioritize what to fix**                                                                                                           | Is there anything you would change/add/remove  to make this better for you?   What problems are most apparent?                                                                                       |
 
 
 
