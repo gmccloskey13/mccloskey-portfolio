@@ -22,3 +22,6 @@ Here are the wireframes I created based on my sketches from Part I. I used Flour
 ## Storyboard
 I have drafted my story in Shorthand. This has helped me get experience using Shorthand and also aided in my user research.
 [**Click here for my Shorthand draft**](https://preview.shorthand.com/cpN7M2kraAbAWj46).
+
+## User Research and Interviews
+### User Research Protocol
