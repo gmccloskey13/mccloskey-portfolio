@@ -3,7 +3,7 @@
 
 # PART II
 
-## Wireframes and Storyboards
+## Wireframes
 
 Here are the wireframes I created based on my sketches from Part I. I used Flourish for all of my visualizations here. 
 
@@ -19,4 +19,6 @@ Here are the wireframes I created based on my sketches from Part I. I used Flour
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5492988"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Storyboards
 I have drafted my story in Shorthand. This has helped me get experience using Shorthand and also aided in my user research.
+[**Click here for my Shorthand draft**] (https://preview.shorthand.com/cpN7M2kraAbAWj46)
