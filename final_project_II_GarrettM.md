@@ -40,7 +40,9 @@ I have drafted my story in Shorthand. This has helped me get experience using Sh
 I intend to identify representative individuals by understanding who the page might be intended for and also get input from those completely unfamiliar with the topic. I expect both audiences to provide valuable information on the content and approach to this topic. I am conducting 10 to 15-minute remote or in-person interviews with selected individuals in the target audiences.
 
 ### Script
-[Click here]
+[Click here](/UserResearch_Script.md)
+
+
 
 
 
