@@ -26,6 +26,10 @@ My second call to action was addressed to art-goers and the general public. This
 ---
 
 ## FINAL DATA STORY
-My final data story compiles all of the elements I have worked on from Part I to Part III. 
+
+
+My final data story was completed in Shorthand and compiles all of the elements I have worked on from Part I to Part III. The story is titled: _How American Is The American Orchestra?_. Click below to view my story!
+
+
 [Click here to view _How American Is The American Orchestra?_](/https://carnegiemellon.shorthandstories.com/how-american-is-the-american-orchestra-/index.html)
 
