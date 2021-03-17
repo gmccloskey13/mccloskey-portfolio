@@ -1,4 +1,4 @@
-##### [**BACK TO PORTFOLIO**](/portfoliopage_main.md) | [**BACK TO PART I**](/final_project_GarrettM.md)
+##### [**BACK TO PORTFOLIO PAGE**](/portfoliopage_main.md) | [**PART I**](/final_project_GarrettM.md)
 
 
 # PART II
