@@ -26,3 +26,6 @@ My second call to action was addressed to art-goers and the general public. This
 ---
 
 ## FINAL DATA STORY
+
+[Click Here](/https://carnegiemellon.shorthandstories.com/how-american-is-the-american-orchestra-/index.html)
+
