@@ -23,5 +23,6 @@ The first call to action is addressed toward orchestra professionals/arts admini
 
 My second call to action was addressed to art-goers and the general public. This includes links to two organizations that are doing work to diversify the field of classical music. 
 
+---
 
 ## FINAL DATA STORY
