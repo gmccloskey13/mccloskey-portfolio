@@ -20,4 +20,4 @@ Welcome to my portfolio page! This page will house all of my data visualizations
 [Click here](/final_project_II_GarrettM.md)
 
 ### PART III
-Please Check Back
+[Click here](/final_project_III_GarrettM.md)
