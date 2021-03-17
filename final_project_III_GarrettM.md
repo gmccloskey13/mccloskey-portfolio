@@ -4,7 +4,7 @@
 # PART III
 
 ## CHANGES
-I made a number of changes to my approach after completing the user research. This process and the subsequent updates really helped me solidify my idea and present it to the audience in the best way possible. 
+I made a number of changes to my approach after completing the user research in Part II. This process and the subsequent updates really helped me solidify my idea and present it to the audience in the best way possible. Below I have outlined the changes I have made.
 
 ### **Narrative**
 First, I tightened up the language around a lot of the narrative elements. The story is inherently narrative-heavy given the topic, but I added heading to help the reader follow along. This was a piece of feedback I received from the in-class critique that I found very feasible and useful. I think that this also gave me space to clearly define terms necessary to understand the background in the ‘Setting The Stage’ section. Some of the long sentences I referred to in Part II that needed to be addressed were replaced as I reframed my call to action. 
