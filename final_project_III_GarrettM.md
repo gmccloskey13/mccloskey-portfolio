@@ -22,3 +22,6 @@ The users identified a few target audiences which persuaded me to implement two 
 The first call to action is addressed toward orchestra professionals/arts administrators. I outline that these individuals can begin conversations in their own orchestras/institutions about diversity and inclusion issues with the help of resources, such as those produced by the League of American Orchestras. 
 
 My second call to action was addressed to art-goers and the general public. This includes links to two organizations that are doing work to diversify the field of classical music. 
+
+
+## FINAL DATA STORY
